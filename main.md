@@ -11,9 +11,11 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 ## Confirmed Speakers
 
 * Jonathan Frankle (Harvard, USA)
-* Micheal Mitzenmacher (Harvard, USA)
-* Chen Luo (Amazon)
-* Furong Huang (University of Maryland)
+* Michael Mitzenmacher (Harvard, USA)
+* Chen Luo (Amazon, USA)
+* Furong Huang (University of Maryland, USA)
+* Bilge Acun (Meta, USA)
+* Anshumali Shrivastava (Rice University/ThirdAI Corp, USA)
 
 
 ## Organizing Committee

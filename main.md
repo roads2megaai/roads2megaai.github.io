@@ -10,13 +10,27 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 ## Confirmed Speakers
 
+<img src="./img/frankle.png" style="width:16em">
+
 * Jonathan Frankle (Harvard, USA)
+
+<img src="./img/mitzenmacher_michael2.webp" style="width:16em">
+
 * Micheal Mitzenmacher (Harvard, USA)
+
+<img src="./img/luochen_2.jpg" style="width:16em">
+
 * Chen Luo (Amazon)
+
+<img src="./img/furonghuang.jpg" style="width:16em">
+
 * Furong Huang (University of Maryland)
+
+<img src="./img/Acun_Bilge.jpg" style="width:16em">
+
 * Bilge Acun (Meta, USA)
 
-## Draft Schedule
+## Schedule
 
 * 8:30am-8:40am - Welcome and Opening Remarks (Workshop Organizers)
 * 8:40am-9:40am - Keynote #1: Prof. Michael Mitzenmacher (Harvard)

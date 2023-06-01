@@ -24,7 +24,7 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 <img src="./img/luochen_2.jpg" style="width:16em">
 
-* [Chen Luo](http://chen-luo.com/) (Amazon)
+* [Chen Luo](http://chen-luo.com/) (Amazon, USA)
 
 <img src="./img/mitzenmacher_michael2.webp" style="width:16em">
 

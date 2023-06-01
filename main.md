@@ -12,11 +12,11 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 <img src="./img/frankle.png" style="width:16em">
 
-* Jonathan Frankle (Harvard, USA)
+* Jonathan Frankle (Harvard University/Mosaic ML, USA)
 
 <img src="./img/mitzenmacher_michael2.webp" style="width:16em">
 
-* Micheal Mitzenmacher (Harvard, USA)
+* Micheal Mitzenmacher (Harvard University, USA)
 
 <img src="./img/luochen_2.jpg" style="width:16em">
 
@@ -24,7 +24,7 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 <img src="./img/furonghuang.jpg" style="width:16em">
 
-* Furong Huang (University of Maryland)
+* Furong Huang (University of Maryland, USA)
 
 <img src="./img/Acun_Bilge.jpg" style="width:16em">
 

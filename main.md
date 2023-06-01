@@ -8,7 +8,7 @@ layout: doc
 
 The state-of-the-art on numerous machine learning (ML) benchmarks comes from training enormous neural network models on expensive, specialized hardware with massive quantities of data. However, this route to success in deep learning is unsustainable. Training a large transformer model in natural language processing, for instance, can incur a higher carbon footprint than the [total lifetime cost of five cars](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). In addition, these massive models require immense memory and computing resources during deployment, which hinders their practical impact. To realize the full promise and benefits of artificial intelligence, we must solve these scalability challenges prevalent in both training and inference and design new algorithms with step-function improvements in efficiency. This workshop aims to bring together both computer science researchers and practitioners focused on ML efficiency to offer innovative solutions towards efficient modeling workflows grounded in principled algorithm design.
 
-## Confirmed Speakers
+## Keynote Speakers
 
 <img src="./img/frankle.png" style="width:16em">
 
@@ -63,10 +63,10 @@ This workshop encourages submissions on original research, benchmarks, in-progre
 
 The technical topics of interest at this workshop include (but are not limited to):
 * Algorithms and data structures to improve the computational efficiency of neural network training and inference
-* Algorithmic solutions to the deployment challenges on resource-constrained devices 
+* Algorithmic solutions for deploying machine learning models on resource-constrained devices 
 * Model compression approaches for training and inference, including pruning, quantization, and parameter sharing
-* Data reduction (sketching, sampling, coresets, etc. ) and active sampling approach for faster training
-* Algorithmic techniques to enable longer sequence language models, higher resolution images for vision models, wider hidden layers, and other model architectures of interest to the community
+* Data reduction techniques (e.g. sketching, sampling, coresets) for efficient training and inference
+* Algorithmic techniques to enable longer sequence language models, higher resolution images for vision models, wide and deep neural networks, and other model architectures of interest to the community
 
 ## Submission
 

@@ -30,22 +30,22 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 * [Bilge Acun](https://bilgeacun.github.io/) (Meta, USA)
 
-## Schedule
+## Schedule (Thursday, June 8)
 
-* 8:30am-8:40am - Welcome and Opening Remarks (Workshop Organizers)
-* 8:40am-9:40am - Keynote #1: Prof. Michael Mitzenmacher (Harvard)
-* 9:40-10:05am - Invited Talk
-* 10:05am - 10:30 am - Invited Talk
-* 10:30-10:40 - Break
-* 10:40am-11:40am - Keynote #2: Dr. Bilge Acun (Meta)
-* 11:40-12:05pm - Invited Talk
-* 12:05pm-12:30pm - Invited Talk
-* 12:30pm-1:30pm - Lunch Break
-* 1:30pm - 2:30pm - Keynote #3: Prof. Jonathan Frankle (Harvard)
-* 2:30pm-3pm - Keynote #4: Prof. Furong Huang (UMD)
-* 3:00pm-3:40pm - Keynote #5: Dr. Chen Luo (Amazon)
-* 3:40-3:50pm - Break
-* 3:50pm-4:30pm - Panel Discussion (Michael Mitzenmacher, Jonathan Frankle, Bilge Acun, Chen Luo, Anshumali Shrivastava)
+* 8:30am-8:45am - Welcome and Opening Remarks (Workshop Organizers)
+* 8:45am-9:45am - Keynote #1: Prof. Michael Mitzenmacher (Harvard)
+* 9:45am-10:10am - Invited Talk
+* 10:10am-10:35 am - Invited Talk
+* 10:35am-10:50am - Break
+* 10:50am-11:35am - Keynote #2: Dr. Bilge Acun (Meta)
+* 11:35-12:00pm - Invited Talk
+* 12:00pm-12:25pm - Invited Talk
+* 12:25pm-1:30pm - Lunch Break
+* 1:30pm-2:15pm - Keynote #3: Prof. Jonathan Frankle (Harvard/Mosaic ML)
+* 2:15pm-2:45pm - Keynote #4: Prof. Furong Huang (UMD)
+* 2:45pm-3:30pm - Keynote #5: Dr. Chen Luo (Amazon)
+* 3:30pm-3:45pm - Break
+* 3:45pm-4:30pm - Panel Discussion (Michael Mitzenmacher, Jonathan Frankle, Bilge Acun, Chen Luo, Anshumali Shrivastava)
 * 4:30pm - Social
 
 ## Organizing Committee

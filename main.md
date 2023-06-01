@@ -12,7 +12,7 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 <img src="./img/frankle.png" style="width:16em">
 
-* Jonathan Frankle (Harvard University/Mosaic ML, USA)
+* [Jonathan Frankle](http://www.jfrankle.com/) (Harvard University/Mosaic ML, USA)
 
 <img src="./img/mitzenmacher_michael2.webp" style="width:16em">
 
@@ -20,15 +20,15 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 <img src="./img/luochen_2.jpg" style="width:16em">
 
-* Chen Luo (Amazon)
+* [Chen Luo](http://chen-luo.com/) (Amazon)
 
 <img src="./img/furonghuang.jpg" style="width:16em">
 
-* Furong Huang (University of Maryland, USA)
+* [Furong Huang](http://furong-huang.com/) (University of Maryland, USA)
 
 <img src="./img/Acun_Bilge.jpg" style="width:16em">
 
-* Bilge Acun (Meta, USA)
+* [Bilge Acun](https://bilgeacun.github.io/) (Meta, USA)
 
 ## Schedule
 
@@ -45,15 +45,15 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 * 2:30pm-3pm - Keynote #4: Prof. Furong Huang (UMD)
 * 3:00pm-3:40pm - Keynote #5: Dr. Chen Luo (Amazon)
 * 3:40-3:50pm - Break
-* 3:50pm-4:30pm - Panel Discussion (Mitzenmacher, Frankle, Acun, Luo, Shrivastava)
+* 3:50pm-4:30pm - Panel Discussion (Michael Mitzenmacher, Jonathan Frankle, Bilge Acun, Chen Luo, Anshumali Shrivastava)
 * 4:30pm - Social
 
 ## Organizing Committee
 
-* Zhaozhuo Xu (Rice University, USA)
-* Aditya Desai (Rice University, USA)
-* Vihan Lakshman (ThirdAI, USA)
-* Anshumali Shrivastava (Rice University/ThirdAI, USA)
+* [Zhaozhuo Xu](https://ottovonxu.github.io/) (Rice University, USA)
+* [Aditya Desai](https://www.linkedin.com/in/aditya-desai-8078811a) (Rice University, USA)
+* [Vihan Lakshman](https://vihan-lakshman.github.io/) (ThirdAI, USA)
+* [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) (Rice University/ThirdAI, USA)
 
 ## Call for Papers
 

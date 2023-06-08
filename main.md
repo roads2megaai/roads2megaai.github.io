@@ -34,22 +34,22 @@ The state-of-the-art on numerous machine learning (ML) benchmarks comes from tra
 
 * 8:30am-8:40am - Welcome and Opening Remarks (Workshop Organizers)
 * 8:40am-9:40am - Keynote #1: Prof. Michael Mitzenmacher (Harvard)
-* 9:40-10:05am - Invited Talk: Hongyi Wang
+* 9:40am-10:05am - Invited Talk: Hongyi Wang
 `Cuttlefish: Low-Rank Model Training without All the Tuning`
-* 10:05am - 10:30 am - Invited Talk: Daochen Zha
+* 10:05am-10:30am - Invited Talk: Daochen Zha
 `Pre-train and Search: Efficient Embedding Table Sharding with Pre-trained Neural Cost Models`
-* 10:30-10:40 - Break
-* 10:40am-11:40am - Keynote #2: Dr. Bilge Acun (Meta)
-* 11:40-12:05pm - Invited Talk: Trevor Gale
+* 10:30am-10:50am - Coffee Break and Socialize
+* 10:50am-11:30am - Keynote #2: Dr. Bilge Acun (Meta)
+* 11:30am-11:55am - Invited Talk: Trevor Gale
 `MegaBlocks: Efficient Sparse Training with Mixture-of-Experts`
-* 12:05pm-12:30pm - Invited Talk: Daochen Zha
+* 11:55am-12:20pm - Invited Talk: Daochen Zha
 `RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations`
-* 12:30pm-1:30pm - Lunch Break
-* 1:30pm - 2:30pm - Keynote #3: Prof. Jonathan Frankle (Harvard)
-* 2:30pm-3pm - Keynote #4: Prof. Furong Huang (UMD)
-* 3:00pm-3:40pm - Keynote #5: Dr. Chen Luo (Amazon)
-* 3:40-3:50pm - Break
-* 3:50pm-4:30pm - Panel Discussion (Mitzenmacher, Frankle, Acun, Luo, Shrivastava)
+* 12:20pm-1:20pm - Lunch Break
+* 1:20pm-2:00pm - Keynote #3: Prof. Jonathan Frankle (Harvard)
+* 2:00pm-2:30pm - Keynote #4: Prof. Furong Huang (UMD)
+* 2:30pm-3:10pm - Keynote #5: Dr. Chen Luo (Amazon)
+* 3:10pm-3:30pm - Coffee Break and Socialize
+* 3:30pm-4:30pm - Panel Discussion (Mitzenmacher, Frankle, Acun, Luo, Shrivastava)
 * 4:30pm - Social
 
 ## Organizing Committee
